@@ -1,0 +1,14 @@
+color_rgb(107, 125, 48);
+rectangulo_lleno(88.0+x,0.0+y,92.0+x,4.0+y);
+color_rgb(211, 225, 103);
+rectangulo_lleno(92.0+x,0.0+y,96.0+x,4.0+y);
+color_rgb(191, 203, 69);
+rectangulo_lleno(96.0+x,0.0+y,100.0+x,4.0+y);
+color_rgb(193, 196, 60);
+rectangulo_lleno(100.0+x,0.0+y,104.0+x,4.0+y);
+color_rgb(199, 208, 74);
+rectangulo_lleno(104.0+x,0.0+y,108.0+x,4.0+y);
+color_rgb(218, 236, 111);
+rectangulo_lleno(108.0+x,0.0+y,112.0+x,4.0+y);
+color_rgb(142, 159, 75);
+rectangulo_lleno(112.0+x,0.0+y,116.0+x,4.0+y);
